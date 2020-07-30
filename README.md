@@ -24,17 +24,6 @@ Libracamp
 ![Libracamp](https://static.wixstatic.com/media/8caecf_8aebe5dd6d3e480cb054ade9d1b37502~mv2.png/v1/fill/w_60,h_60,al_c,lg_1,q_80/libracamp_mini_2x.png)
 [This project is a Libracamp grant plan project.](https://www.libracamp.com/)
 
-
-Contributors
-------------
-
-- Tot (Kulap.io, https://github.com/totiz)
-- Big (Kulap.io, https://github.com/biigpongsatorn)
-- Kor (https://github.com/korrio)
-- Bank (https://github.com/zent-bank)
-- Suraneti (https://github.com/suraneti)
-- Iyawat (https://github.com/iyawat)
-
 License
 -------
 
